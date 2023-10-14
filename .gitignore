@@ -2,7 +2,6 @@
 .env
 .gitlab-ci.yaml
 CI_pyats/*
-gns3_topology/*
 hosts_vars/*
 inventory/groups.yaml
 inventory/hosts.yaml
