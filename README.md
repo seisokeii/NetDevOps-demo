@@ -33,3 +33,7 @@ $ poetry install
 
 ## GNS3 TOPOLOGY
 ![images](./screenshot/GNS3_topology.png)
+
+## PC-1 Ping Gateway Result
+![images](./screenshot/PC-1_ping_gw_01.png)
+![images](./screenshot/Nexus_pc-1_gw_01.png)
