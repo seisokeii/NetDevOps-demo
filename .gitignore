@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.gitlab-ci.yaml
+CI_pyats/*
+gns3_topology/*
+hosts_vars/*
+inventory/groups.yaml
+inventory/hosts.yaml
+script/IOS/lib_ios.py
+script/JUNOS/lib_junos.py
+script/NXOS/lib_nxos.py
+templates/IOS/*
+templates/IOSXE/*
+templates/JUNOS/*
+templates/NXOS/*

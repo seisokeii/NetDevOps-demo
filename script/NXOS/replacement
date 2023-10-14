@@ -1,0 +1,7 @@
+{
+    "description": "descr",
+    "adminState": "adminSt",
+    "vlan_id": "fabEncap",
+    "bash-shell": "bashshell",
+    "interface-vlan": "ifvlan"
+}
